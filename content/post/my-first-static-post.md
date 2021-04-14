@@ -2,7 +2,6 @@
 date = 2021-04-14T17:43:26Z
 description = "this is the first time i have ever used an ssg"
 disable_share = false
-draft = true
 featured_image = "/images/bear.jpg"
 tags = ["scene"]
 title = "my first static post"
